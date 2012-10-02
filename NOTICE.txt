@@ -1,0 +1,4 @@
+Copyright 2012 The Sakai Foundation. All rights reserved. This version of the Open Academic Environment (OAE) is
+licensed under the terms of the Educational Community License, Version 2.0 <http://www.opensource.org/licenses/ecl2.php>. 
+OAE distributions include a number of 3rd-party libraries which are acknowledged below.  Questions about licensing should 
+be directed to licensing@sakaifoundation.org.

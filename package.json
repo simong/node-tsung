@@ -1,0 +1,14 @@
+{
+    "name": "node-tsung",
+    "version": "0.0.1",
+    "main": "./lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/sakaiproject/node-tsung.git"
+    },
+    "scripts": {
+        "test": "node_modules/.bin/mocha tests"
+    },
+    "devDependencies": "mocha",
+    "keywords": ["tsung"]
+}
