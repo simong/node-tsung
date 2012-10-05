@@ -1,7 +1,10 @@
 {
     "name": "node-tsung",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "./lib/index.js",
+    "dependencies": {
+        "temp": "0.4.0"
+    },
     "repository": {
         "type": "git",
         "url": "git://github.com/sakaiproject/node-tsung.git"
